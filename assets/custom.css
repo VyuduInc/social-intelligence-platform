@@ -1,0 +1,35 @@
+/* Hide Streamlit branding */
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+
+/* Dark theme enhancements */
+[data-testid="stAppViewContainer"] {
+    background-color: #0a0e27;
+}
+
+/* Expander styling */
+[data-testid="stExpander"] {
+    background-color: #1a1f35;
+    border: 1px solid #262b44;
+    border-radius: 8px;
+    margin-bottom: 8px;
+}
+
+/* Tab styling */
+[data-testid="stTab"] {
+    background-color: #1a1f35;
+    border-radius: 8px 8px 0 0;
+    padding: 12px 24px;
+}
+
+[data-testid="stTab"][aria-selected="true"] {
+    background-color: #262b44;
+}
+
+/* Metric container */
+[data-testid="stMetric"] {
+    background-color: #1a1f35;
+    border: 1px solid #262b44;
+    border-radius: 12px;
+    padding: 16px;
+}

@@ -1,0 +1,212 @@
+{
+  "trends": [
+    {
+      "topic": "First Date Conversation Tips",
+      "volume": 1250,
+      "sentiment": 0.72,
+      "velocity": 15.3,
+      "women_interest": 68,
+      "men_interest": 45,
+      "peak_time": "Evening"
+    },
+    {
+      "topic": "Height Preferences in Dating",
+      "volume": 980,
+      "sentiment": -0.12,
+      "velocity": -8.5,
+      "women_interest": 34,
+      "men_interest": 78,
+      "peak_time": "Night"
+    },
+    {
+      "topic": "Emotional Intelligence in Relationships",
+      "volume": 856,
+      "sentiment": 0.85,
+      "velocity": 22.1,
+      "women_interest": 82,
+      "men_interest": 51,
+      "peak_time": "Afternoon"
+    },
+    {
+      "topic": "Texting Response Time Expectations",
+      "volume": 742,
+      "sentiment": 0.15,
+      "velocity": 5.2,
+      "women_interest": 61,
+      "men_interest": 58,
+      "peak_time": "Morning"
+    },
+    {
+      "topic": "Body Language Signs of Attraction",
+      "volume": 698,
+      "sentiment": 0.68,
+      "velocity": 12.4,
+      "women_interest": 55,
+      "men_interest": 72,
+      "peak_time": "Evening"
+    },
+    {
+      "topic": "Red Flags in Early Dating",
+      "volume": 645,
+      "sentiment": -0.42,
+      "velocity": -3.1,
+      "women_interest": 75,
+      "men_interest": 38,
+      "peak_time": "Night"
+    },
+    {
+      "topic": "Confidence vs Arrogance",
+      "volume": 589,
+      "sentiment": 0.45,
+      "velocity": 8.7,
+      "women_interest": 48,
+      "men_interest": 81,
+      "peak_time": "Evening"
+    },
+    {
+      "topic": "When to Become Exclusive",
+      "volume": 534,
+      "sentiment": 0.38,
+      "velocity": 6.9,
+      "women_interest": 69,
+      "men_interest": 52,
+      "peak_time": "Afternoon"
+    },
+    {
+      "topic": "Financial Expectations in Dating",
+      "volume": 498,
+      "sentiment": -0.28,
+      "velocity": -5.4,
+      "women_interest": 44,
+      "men_interest": 65,
+      "peak_time": "Morning"
+    },
+    {
+      "topic": "Physical Fitness and Attraction",
+      "volume": 467,
+      "sentiment": 0.52,
+      "velocity": 11.2,
+      "women_interest": 38,
+      "men_interest": 84,
+      "peak_time": "Evening"
+    },
+    {
+      "topic": "Age Gap Relationships",
+      "volume": 423,
+      "sentiment": -0.15,
+      "velocity": -2.3,
+      "women_interest": 52,
+      "men_interest": 63,
+      "peak_time": "Night"
+    },
+    {
+      "topic": "Online Dating Profile Tips",
+      "volume": 398,
+      "sentiment": 0.61,
+      "velocity": 9.8,
+      "women_interest": 57,
+      "men_interest": 66,
+      "peak_time": "Evening"
+    },
+    {
+      "topic": "Meeting Parents Timeline",
+      "volume": 356,
+      "sentiment": 0.34,
+      "velocity": 4.5,
+      "women_interest": 71,
+      "men_interest": 42,
+      "peak_time": "Afternoon"
+    },
+    {
+      "topic": "Chemistry vs Compatibility",
+      "volume": 334,
+      "sentiment": 0.78,
+      "velocity": 14.6,
+      "women_interest": 79,
+      "men_interest": 48,
+      "peak_time": "Evening"
+    },
+    {
+      "topic": "Past Relationship Disclosure",
+      "volume": 312,
+      "sentiment": -0.08,
+      "velocity": 1.2,
+      "women_interest": 63,
+      "men_interest": 54,
+      "peak_time": "Night"
+    },
+    {
+      "topic": "Social Media Boundaries",
+      "volume": 289,
+      "sentiment": -0.35,
+      "velocity": -6.7,
+      "women_interest": 68,
+      "men_interest": 45,
+      "peak_time": "Morning"
+    },
+    {
+      "topic": "First Kiss Timing",
+      "volume": 267,
+      "sentiment": 0.71,
+      "velocity": 13.4,
+      "women_interest": 59,
+      "men_interest": 76,
+      "peak_time": "Evening"
+    },
+    {
+      "topic": "Vulnerability in Dating",
+      "volume": 245,
+      "sentiment": 0.82,
+      "velocity": 18.9,
+      "women_interest": 86,
+      "men_interest": 41,
+      "peak_time": "Afternoon"
+    },
+    {
+      "topic": "Career Ambition Preferences",
+      "volume": 223,
+      "sentiment": 0.28,
+      "velocity": 3.6,
+      "women_interest": 56,
+      "men_interest": 58,
+      "peak_time": "Morning"
+    },
+    {
+      "topic": "Physical Touch Comfort Levels",
+      "volume": 198,
+      "sentiment": 0.44,
+      "velocity": 7.1,
+      "women_interest": 51,
+      "men_interest": 69,
+      "peak_time": "Evening"
+    }
+  ],
+  "top_keywords": {
+    "women": [
+      "Communication",
+      "Emotional intelligence",
+      "Vulnerability",
+      "Long-term compatibility",
+      "Shared values",
+      "Respect",
+      "Active listening",
+      "Empathy"
+    ],
+    "men": [
+      "Physical attraction",
+      "Confidence",
+      "Fitness",
+      "Independence",
+      "Humor",
+      "Direct communication",
+      "Common interests",
+      "Spontaneity"
+    ]
+  },
+  "engagement_stats": {
+    "total_discussions": 87,
+    "avg_sentiment": 0.32,
+    "peak_hours": "8-11 PM",
+    "weekly_growth": 18
+  }
+}

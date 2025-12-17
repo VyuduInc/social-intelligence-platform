@@ -1,0 +1,192 @@
+{
+  "communication_tips": [
+    {
+      "category": "Opening Lines",
+      "do": "Ask open-ended questions about their interests or situation",
+      "dont": "Use generic pickup lines or immediate compliments on appearance",
+      "example_good": "I noticed you're reading [book name]. What made you pick that? I've been looking for something new.",
+      "example_bad": "Did it hurt when you fell from heaven?",
+      "effectiveness": 7.8,
+      "context": "First interactions, bars, coffee shops, social events"
+    },
+    {
+      "category": "Active Listening",
+      "do": "Ask follow-up questions based on what they said, remember details",
+      "dont": "Interrupt to share your own story, or wait for your turn to talk",
+      "example_good": "You mentioned you love hiking—what's your favorite trail you've done recently?",
+      "example_bad": "Oh hiking? Yeah, I went to this one place last summer...[long story]",
+      "effectiveness": 9.1,
+      "context": "All conversations, especially early dates"
+    },
+    {
+      "category": "Vulnerability",
+      "do": "Share genuine thoughts and experiences at appropriate depth",
+      "dont": "Overshare personal trauma or stay completely surface-level",
+      "example_good": "I've been trying to figure out what I want next in my career. It's exciting but also a bit scary.",
+      "example_bad": "My ex totally destroyed my trust and now I have commitment issues.",
+      "effectiveness": 8.4,
+      "context": "2nd+ dates, when building emotional connection"
+    },
+    {
+      "category": "Playful Teasing",
+      "do": "Use light-hearted humor about shared experiences or innocent traits",
+      "dont": "Mock insecurities, physical appearance, or things they value",
+      "example_good": "Of course you're a cat person—I should have guessed from your independent vibe!",
+      "example_bad": "Wow, you're actually terrible at pool. Like, impressively bad.",
+      "effectiveness": 7.6,
+      "context": "After rapport is established, avoid on first dates"
+    },
+    {
+      "category": "Expressing Interest",
+      "do": "Be clear and direct about wanting to see them again",
+      "dont": "Play games, wait arbitrary days, or be vague",
+      "example_good": "I had a great time tonight. I'd love to take you to [specific place] this weekend if you're free.",
+      "example_bad": "Yeah so...maybe we could hang out sometime or whatever.",
+      "effectiveness": 8.7,
+      "context": "End of positive dates, when interest is mutual"
+    },
+    {
+      "category": "Text Communication",
+      "do": "Match their energy level and response time generally",
+      "dont": "Send walls of text, over-analyze response times, or use excessive emojis",
+      "example_good": "Hey! That restaurant you mentioned sounds amazing. Free Saturday?",
+      "example_bad": "Heyyyy 😊😊 So I was thinking about what you said about thai food and there are SO many places we could go I found like 5 options what do you think? 🤔😋🍜",
+      "effectiveness": 7.3,
+      "context": "Between dates, planning logistics"
+    },
+    {
+      "category": "Handling Rejection",
+      "do": "Accept gracefully, thank them for their honesty, move on",
+      "dont": "Demand explanations, try to change their mind, or insult them",
+      "example_good": "I appreciate you being honest with me. Thanks for the time we shared—good luck out there!",
+      "example_bad": "Really? After all the effort I put in? You're making a mistake.",
+      "effectiveness": 9.2,
+      "context": "When interest is not reciprocated"
+    }
+  ],
+  "body_language": [
+    {
+      "signal": "Prolonged Eye Contact",
+      "meaning": "Interest and engagement; 3+ seconds indicates attraction",
+      "how_to_use": "Maintain 60-70% eye contact during conversation; hold gaze briefly when they're speaking",
+      "common_mistake": "Staring too intensely (creepy) or avoiding eye contact entirely (disinterest/insecurity)"
+    },
+    {
+      "signal": "Open Body Posture",
+      "meaning": "Receptiveness and confidence; facing toward someone with uncrossed arms",
+      "how_to_use": "Face your body toward them, keep arms uncrossed, lean slightly forward when interested",
+      "common_mistake": "Crossing arms (defensive), turned away body (disinterest), slouching (low confidence)"
+    },
+    {
+      "signal": "Mirroring",
+      "meaning": "Subconscious sign of rapport and connection",
+      "how_to_use": "Subtly match their posture, gestures, and speaking pace after rapport is building",
+      "common_mistake": "Mimicking too obviously or immediately (weird), not naturally at all (rigid)"
+    },
+    {
+      "signal": "Genuine Smile",
+      "meaning": "Warmth and approachability; Duchenne smile reaches the eyes",
+      "how_to_use": "Smile naturally when greeting and during pleasant moments; let it reach your eyes",
+      "common_mistake": "Forced smile (uncomfortable), smiling too much (approval-seeking), neutral expression (cold)"
+    },
+    {
+      "signal": "Proximity and Touch",
+      "meaning": "Comfort level and interest; gradually decreasing distance",
+      "how_to_use": "Respect initial personal space, allow natural opportunities for light touch (arm, shoulder)",
+      "common_mistake": "Standing too close too soon (invasive), zero physical contact (platonic vibe)"
+    },
+    {
+      "signal": "Hair Touch or Self-Grooming",
+      "meaning": "Often a sign of nervousness or preening (showing interest)",
+      "how_to_use": "Don't fidget excessively, but natural grooming adjustments are fine",
+      "common_mistake": "Constant fidgeting (anxious), excessive preening (vain)"
+    },
+    {
+      "signal": "Feet Direction",
+      "meaning": "Subconscious indicator of engagement; feet point toward interest",
+      "how_to_use": "Position your body and feet toward them during conversation",
+      "common_mistake": "Feet pointing away or toward exit (wanting to leave), not noticing their foot direction"
+    },
+    {
+      "signal": "Vocal Tone and Pace",
+      "meaning": "Energy level and emotional state; attraction often increases vocal animation",
+      "how_to_use": "Speak clearly, vary your tone, avoid monotone delivery",
+      "common_mistake": "Speaking too fast (nervous), too slow (boring), or too quiet (uncertain)"
+    }
+  ],
+  "conversation_starters": {
+    "situational": [
+      "This place has great energy. Have you been here before?",
+      "I'm trying to decide between [two things]—which would you choose?",
+      "You seem like someone who'd have a good recommendation for [relevant topic]"
+    ],
+    "interest_based": [
+      "That's a cool [item they have]. Are you into [related activity]?",
+      "I overheard you talking about [topic]—I've been curious about that too",
+      "What brings you to [location/event] today?"
+    ],
+    "direct": [
+      "Hi, I'm [name]. I thought you seemed interesting and wanted to introduce myself.",
+      "I noticed you from across the room and had to come say hello.",
+      "This might be forward, but I'd love to buy you a coffee and chat."
+    ]
+  },
+  "common_mistakes": [
+    {
+      "mistake": "Talking too much about yourself",
+      "why_it_fails": "Signals self-centeredness and lack of interest in them",
+      "fix": "Follow the 60/40 rule: let them talk 60% of the time"
+    },
+    {
+      "mistake": "Agreeing with everything they say",
+      "why_it_fails": "Seems inauthentic and lacks backbone",
+      "fix": "Share genuine opinions respectfully, even if different"
+    },
+    {
+      "mistake": "Trying to impress with achievements",
+      "why_it_fails": "Comes across as insecure and boastful",
+      "fix": "Let accomplishments come up naturally; be humble"
+    },
+    {
+      "mistake": "Moving too fast physically",
+      "why_it_fails": "Violates comfort zones and signals only physical interest",
+      "fix": "Pay attention to reciprocation; match their pace"
+    },
+    {
+      "mistake": "Being too available",
+      "why_it_fails": "Reduces perceived value and mystery",
+      "fix": "Maintain your life, interests, and boundaries"
+    },
+    {
+      "mistake": "Negative talk (ex, job, life)",
+      "why_it_fails": "Creates negative associations and suggests emotional baggage",
+      "fix": "Keep early interactions positive; save venting for later"
+    }
+  ],
+  "escalation_tips": [
+    {
+      "stage": "Initial Conversation",
+      "goal": "Establish rapport and shared interest",
+      "actions": "Exchange names, find common ground, light humor, maintain engagement",
+      "green_lights": "Sustained eye contact, laughing, asking questions back, open body language"
+    },
+    {
+      "stage": "Exchange Contact",
+      "goal": "Secure next interaction",
+      "actions": "Suggest specific plan, get phone number, follow up within 24 hours",
+      "green_lights": "Enthusiasm about meeting again, giving contact info readily, suggesting times"
+    },
+    {
+      "stage": "First Date",
+      "goal": "Deepen connection beyond initial attraction",
+      "actions": "Choose engaging activity, share personal stories, show genuine interest",
+      "green_lights": "Date extending beyond planned time, physical proximity decreasing, vulnerability increasing"
+    },
+    {
+      "stage": "Physical Escalation",
+      "goal": "Introduce appropriate touch",
+      "actions": "Light touches (arm, shoulder), offer hand, respect boundaries",
+      "green_lights": "Reciprocating touch, leaning in, maintaining close proximity"
+    }
+  ]
+}

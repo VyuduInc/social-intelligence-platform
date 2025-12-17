@@ -1,0 +1,143 @@
+{
+  "physical_factors": [
+    {
+      "factor": "Height Preferences",
+      "women_preference": "Taller than self (68% prefer +5-8 inches)",
+      "men_preference": "Shorter than self (82% prefer -2 to -6 inches)",
+      "research": "Stulp et al., 2013; Pawlowski, 2003",
+      "key_finding": "Height preferences are more rigid in online dating than in-person contexts",
+      "practical_tip": "Focus on posture, confidence, and overall presentation over actual height measurements"
+    },
+    {
+      "factor": "Body Composition",
+      "women_preference": "Athletic/fit build (42%), followed by average (35%)",
+      "men_preference": "Hourglass/athletic (48%), followed by slender (31%)",
+      "research": "Singh, 1993; Frederick et al., 2007",
+      "key_finding": "Waist-to-hip ratio (0.7 for women) and shoulder-to-waist ratio (1.6 for men) are universally attractive",
+      "practical_tip": "Regular exercise improves both actual fitness and perceived health signals"
+    },
+    {
+      "factor": "Facial Symmetry",
+      "women_preference": "Strong jaw, symmetrical features (importance: 8.2/10)",
+      "men_preference": "Feminine features, clear skin (importance: 7.8/10)",
+      "research": "Rhodes, 2006; Little et al., 2011",
+      "key_finding": "Facial symmetry signals genetic health and developmental stability",
+      "practical_tip": "Good grooming, skincare, and confident expressions enhance perceived symmetry"
+    },
+    {
+      "factor": "Style and Grooming",
+      "women_preference": "Well-groomed, contemporary style (importance: 7.5/10)",
+      "men_preference": "Feminine style, well-maintained appearance (importance: 8.1/10)",
+      "research": "Walster et al., 1966; Albada et al., 2002",
+      "key_finding": "Personal style serves as a signal of self-care and social awareness",
+      "practical_tip": "Invest in well-fitting clothes, maintain hygiene, develop personal style"
+    },
+    {
+      "factor": "Smile and Eye Contact",
+      "women_preference": "Genuine smile with eye contact (importance: 9.1/10)",
+      "men_preference": "Warm smile, expressive eyes (importance: 8.9/10)",
+      "research": "Mehu et al., 2007; Mason et al., 2005",
+      "key_finding": "Duchenne smiles (reaching the eyes) are universally attractive across cultures",
+      "practical_tip": "Practice genuine smiling and maintaining 60-70% eye contact during conversations"
+    }
+  ],
+  "behavioral_factors": [
+    {
+      "trait": "Confidence",
+      "attractiveness_score": 8.7,
+      "gender_difference": "Highly valued by both genders",
+      "how_to_demonstrate": "Maintain eye contact, speak clearly, make decisions, own your space without dominating",
+      "research": "Sadalla et al., 1987"
+    },
+    {
+      "trait": "Humor",
+      "attractiveness_score": 8.3,
+      "gender_difference": "Women value humor production more; men value humor appreciation",
+      "how_to_demonstrate": "Use self-deprecating humor, find shared laughter, avoid offensive jokes",
+      "research": "Bressler & Balshine, 2006"
+    },
+    {
+      "trait": "Emotional Intelligence",
+      "attractiveness_score": 8.9,
+      "gender_difference": "Slightly more valued by women (9.2 vs 8.6)",
+      "how_to_demonstrate": "Active listening, empathy, emotional regulation, reading social cues",
+      "research": "Schutte et al., 2001"
+    },
+    {
+      "trait": "Ambition",
+      "attractiveness_score": 7.8,
+      "gender_difference": "More valued by women in long-term partners",
+      "how_to_demonstrate": "Discuss goals, show passion for work/hobbies, demonstrate growth mindset",
+      "research": "Buss, 1989; Li et al., 2002"
+    },
+    {
+      "trait": "Kindness",
+      "attractiveness_score": 9.2,
+      "gender_difference": "Universally valued, slightly higher by women (9.4 vs 9.0)",
+      "how_to_demonstrate": "Small acts of consideration, treat service workers well, show compassion",
+      "research": "Fletcher et al., 1999"
+    },
+    {
+      "trait": "Intelligence",
+      "attractiveness_score": 8.1,
+      "gender_difference": "Valued equally by both genders",
+      "how_to_demonstrate": "Engage in meaningful conversation, show curiosity, avoid condescension",
+      "research": "Prokosch et al., 2009"
+    },
+    {
+      "trait": "Authenticity",
+      "attractiveness_score": 8.6,
+      "gender_difference": "Increasingly important in modern dating",
+      "how_to_demonstrate": "Be genuine about interests, admit mistakes, share real thoughts respectfully",
+      "research": "Wood et al., 2008"
+    }
+  ],
+  "interaction_patterns": [
+    {
+      "pattern": "Mirroring",
+      "effectiveness": 7.9,
+      "description": "Subtly matching body language and speech patterns",
+      "research": "Chartrand & Bargh, 1999"
+    },
+    {
+      "pattern": "Active Listening",
+      "effectiveness": 9.1,
+      "description": "Asking follow-up questions, remembering details, showing engagement",
+      "research": "Bodie et al., 2012"
+    },
+    {
+      "pattern": "Vulnerability",
+      "effectiveness": 8.4,
+      "description": "Appropriate self-disclosure that deepens connection",
+      "research": "Aron et al., 1997"
+    },
+    {
+      "pattern": "Playful Teasing",
+      "effectiveness": 7.6,
+      "description": "Light-hearted, non-offensive teasing that creates rapport",
+      "research": "Keltner et al., 2001"
+    }
+  ],
+  "key_insights": [
+    {
+      "insight": "The Halo Effect",
+      "description": "One positive trait (e.g., physical attractiveness) can positively influence perception of other traits",
+      "implication": "First impressions matter—invest in overall presentation"
+    },
+    {
+      "insight": "Propinquity Effect",
+      "description": "Repeated exposure increases attraction and liking",
+      "implication": "Regular, positive interactions build attraction over time"
+    },
+    {
+      "insight": "Reciprocity Principle",
+      "description": "People are attracted to those who show interest in them",
+      "implication": "Express genuine interest, but avoid over-pursuit"
+    },
+    {
+      "insight": "Similarity-Attraction Effect",
+      "description": "We're drawn to people with similar values, interests, and backgrounds",
+      "implication": "Find and emphasize common ground early"
+    }
+  ]
+}
